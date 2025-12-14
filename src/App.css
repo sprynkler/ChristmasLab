@@ -52,6 +52,7 @@ body {
 .signature {
   font-size: 1.2rem;
   font-style: italic;
+  font-weight: bold;
   color: #ffd700;
   margin-top: 2rem;
 }

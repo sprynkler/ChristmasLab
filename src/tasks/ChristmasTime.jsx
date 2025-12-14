@@ -8,7 +8,7 @@ function ChristmasTime() {
     <div className="christmas-container">
       {/* MUSIC */}
       <audio autoPlay loop>
-        <source src="/background.mp3" type="audio/mp3" />
+       <source src={`${import.meta.env.BASE_URL}background.mp3`} />
       </audio>
 
       {/* NEVE CSS - 25 FIOCCHI STABILI */}
@@ -44,3 +44,4 @@ function ChristmasTime() {
 }
 
 export default ChristmasTime;
+

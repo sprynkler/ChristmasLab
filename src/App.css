@@ -59,6 +59,7 @@ body {
   font-weight: 400;
   color: #ffd700;
   margin-top: 2rem;
+  transform: rotate(-1.5deg);
   text-align: center;
   letter-spacing: 0.05em;
 }

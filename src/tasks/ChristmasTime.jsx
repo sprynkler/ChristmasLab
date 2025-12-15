@@ -23,8 +23,8 @@ function ChristmasTime() {
         <h1>🎄 Christmas Time 🎄</h1>
         <p className="christmas-message">
           Professor,<br /><br />
-          I truly wanted to thank you for the experience you shared with us throughout this course.<br />
-          It wasn't just a path of study; it was a journey filled with discovery, effort, curiosity, and above all, growth.<br /><br />
+          I would like to sincerely thank you for the experiences you shared with us throughout these courses.<br />
+          It wasn't just a path of study, it was a journey filled with discovery, effort, curiosity, and above all, growth.<br /><br />
           You didn't simply teach us concepts.<br />
           You passed on a way of thinking, of approaching challenges with clarity and passion.<br />
           And that means far more than any single lesson.<br /><br />
@@ -44,4 +44,5 @@ function ChristmasTime() {
 }
 
 export default ChristmasTime;
+
 

@@ -54,8 +54,9 @@ body {
 
 .signature {
   font-family: 'Yellowtail', cursive;
-  font-size: 4rem;
+  font-size: 2.5rem;
   font-style: normal;
+  font-weight: 400;
   color: #ffd700;
   margin-top: 2rem;
   text-align: center;
@@ -184,13 +185,6 @@ body {
   margin: 0 auto 2.5rem auto;
   opacity: 0.96;
   font-weight: 300;
-}
-
-.signature {
-  font-size: 1.1rem;
-  font-style: italic;
-  color: #ffd700;
-  margin-top: 0.5rem;           /* più vicino al testo */
 }
 
 @keyframes glow {
